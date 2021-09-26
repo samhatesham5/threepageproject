@@ -1,8 +1,7 @@
 # threepageproject
 
 Here are the links to the images! 
-Semicolon: https://mpng.subpng.com/20180525/bp/kisspng-comma-computer-icons-quotation-mark-semicolon-5b0878a177ce17.9373168415272818254907.jpg
 
 Mental Health Matters: https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2020/05/04/mentalhealthmatters-sitebrand-600_xzjYPRJ_8OUVMTI.jpg
 
-Hero Image: https://www.cnn.com/interactive/2020/10/health/mental-health-people-of-color-wellness/media/assets/CNN-Charlotte-Edey-Hero-1-final.jpg
+Hero Image: https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/stock-mentalhealth-1625217266.jpg
