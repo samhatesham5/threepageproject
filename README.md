@@ -17,3 +17,5 @@ Research:
 https://www.mentalhealth.gov/basics/what-is-mental-health
 
 https://www.nami.org/Support-Education/Publications-Reports/Public-Policy-Reports/The-Doctor-is-Out
+
+https://www.socialsolutions.com/blog/barriers-to-mental-healthcare-access/
