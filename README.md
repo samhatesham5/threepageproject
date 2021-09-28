@@ -12,6 +12,8 @@ https://www.pinterest.com/pin/862087553679699780/
 
 https://www.jsi.com/wp-content/uploads/2017/10/mental-health-2019924_960_720.jpg
 
+https://cdn3.onlinecounselingprograms.com/content/23a34fc699b34aa98f730f5e6c71e1c9/9880_ResourcesYoungPOC_hero.jpg
+
 Research:
 
 https://www.mentalhealth.gov/basics/what-is-mental-health
