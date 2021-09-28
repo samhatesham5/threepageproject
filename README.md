@@ -15,3 +15,5 @@ https://www.jsi.com/wp-content/uploads/2017/10/mental-health-2019924_960_720.jpg
 Research:
 
 https://www.mentalhealth.gov/basics/what-is-mental-health
+
+https://www.nami.org/Support-Education/Publications-Reports/Public-Policy-Reports/The-Doctor-is-Out
