@@ -1,0 +1,225 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200&family=PT+Serif&display=swap');
+
+/*Removing extra padding*/
+body, html {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Heebo', sans-serif;
+  background-color: #F6F4D2;
+}
+
+/*Working on the Navigation Bar*/
+#logo {
+  display: block;
+  position: absolute;
+  width: 150px;
+  padding-bottom: 15px;
+
+}
+
+.navBar {
+  background-color: #D4E09B;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+}
+
+.pageLinks {
+  padding-left: 100px;
+}
+
+a, a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/*Hero Image*/
+.heroImage {
+background-image: url('https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/stock-mentalhealth-1625217266.jpg');
+background-size: cover;
+background-position: center center;
+padding-top: 400px;
+}
+
+/*Pop Out Card */
+
+.card {
+  border-style: solid;
+  border-color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: block;
+  margin-left: 50px;
+  margin-right: 50px;
+  box-shadow:20px 20px 0 rgba(241,156,121,255);
+  transition: 0.3s;
+  background-color: white;
+}
+
+.card:hover {
+  box-shadow: 30px 30px 0 rgba(164, 74, 63, 225);
+}
+
+.bothCards {
+  display: inline-block;
+}
+
+/*Card One*/
+.cardOne {
+  margin-left: 180px;
+  margin-top: 50px;
+  float: left;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 400px;
+  height: 500px;
+  transition: 0.3s;
+  background-color: white;
+}
+
+.imageOne {
+  max-width: 100%;
+  width: 400px;
+  height: auto;
+  display: inline-block;
+}
+
+.container {
+  display: inline-block;
+}
+
+.cardOne:hover {
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+/*Card Two*/
+.cardTwo {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+  display: inline-block;
+  float: right;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 400px;
+  height: 500px;
+  transition: 0.3s;
+  margin-bottom: 100px;
+  background-color: white;
+}
+
+.cardTwo:hover {
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+/*The footer*/
+.footer {
+  background-color: #D4E09B;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  position: sticky;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+/*Starting with the 'about' page*/
+
+.puzzleImage {
+  max-width: 100%;
+  width: 500px;
+  margin-top: 70px;
+
+}
+
+.mainImage {
+  text-align: center;
+}
+
+.textOne {
+  background-color: white;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  transition: 0.3s;
+}
+
+.textOne:hover {
+  box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+/*Page 2*/
+.textCard {
+  background-color: white;
+  border-style: solid;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  box-shadow:20px 20px 0 rgba(241,156,121,255);
+  padding: 10px;
+  transition: 0.3s;
+}
+
+.textCard:hover {
+  box-shadow: 30px 30px 0 rgba(164, 74, 63, 225);
+}
+
+/*Styling the resources (put display:inline in the smaller divs)*/
+.betterHelp {
+  display: inline-block;
+  max-width: 100%;
+  width: 400px;
+
+}
+
+.containerOne {
+  position: absolute;
+  display: inline-block;
+  padding-top: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.resourceOne {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin-left: 50px;
+  margin-top: 70px;
+  margin-right: 50px;
+  margin-bottom:70px;
+  position: relative;
+}
+
+.community {
+  display: inline-block;
+  max-width: 100%;
+  width: 400px;
+  height: 300px;
+  padding-left: 10px;
+  padding-top: 50px;
+  padding-right: 10px;
+}
+
+.resourceTwo {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin-left: 50px;
+  margin-top: 70px;
+  margin-right: 50px;
+  margin-bottom:70px;
+  position: relative;
+  padding-bottom: 100px;
+}
+
+/*
